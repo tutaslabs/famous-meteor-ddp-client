@@ -16,8 +16,11 @@ The repo includes the Famous Engine and Framework libraries.
 To run:
 
 1) clone this repo into a clean folder
+
 2) cd to the folder
+
 3) run  npm install    (you will probably  need sudo to run 'sudo npm install')
+
 4) launch application with npm run dev
 
 The application will connect to any Meteor application running on localhost:3000
