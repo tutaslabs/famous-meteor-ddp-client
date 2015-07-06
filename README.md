@@ -3,6 +3,10 @@ This is a Famous Framework application that demonstrates the use of a DDP protoc
 that connects to a Meteor server. This allows the Framework application to retrieve real time 
 collection data from a meteor server and to execute Meteor Methods using DDP.
 
+This application demonstrates some interesting and unique features of Framework and I also will show you
+how to use Handlebars Templating engine to render more complex HTML into a node 'content' which is currently
+limited to 'static' content.
+
 To run this application you will need the Meteor server application from here...
 
 https://github.com/tutaslabs/famous-meteor-ddp-server
