@@ -1,0 +1,1 @@
+{"scripts":{"deploy-folder":"public/build/tutaslabs~test","deploy":[],"setup":[["install"],["run","local-only-bootstrap","--","--watchAfterBuild=no"]]}}
